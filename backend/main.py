@@ -1,6 +1,6 @@
 def main():
     # Your API key
-    api_key = "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"
+    api_key = "***"
     
     # Initialize recommendation system
     recommender = RecommendationSystem(api_key)
